@@ -1,13 +1,19 @@
 #include <stdio.h>
-int main(){
-    int count[10];
-    count10[i] = i;
-for(int i=0; i<=10; i++);
-printf("%d\n",count10[i];
+void poparray();
+void popdoublearray();
+
+void print(){
+    poparray();
+    popdoublearray();
 }
-int main(){
-    int count[20];
-    count20[i] = i;
-for(int i=2, i<=20; i++);
-printf("%d\n"count20[i]);
+void popdoublearray(){
+    int matrix[20][20];
+    for(int i=0; i<85; i++){
+    for(int j=0; j<21; j++)
+    printf("%d\n",matrix[i][j]);
+    }
+}
+void poparray(){
+int array[15];
+for(int i=0; i<85; i++);
 }
